@@ -8,6 +8,7 @@
 - [Input text](https://github.com/andreaharris-go/learn-vue-js/tree/master/05)
 - [Component](https://github.com/andreaharris-go/learn-vue-js/tree/master/06)
 - [Component with props](https://github.com/andreaharris-go/learn-vue-js/tree/master/07)
+- [Vue instance lifecycle](https://github.com/andreaharris-go/learn-vue-js/tree/master/08)
 
 ## Lodash
 - [IsEmpty](https://github.com/andreaharris-go/learn-vue-js/tree/master/lodash/isEmpty)
