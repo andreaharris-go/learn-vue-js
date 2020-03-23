@@ -1,0 +1,1 @@
+![vue life cycle](https://raw.githubusercontent.com/andreaharris-go/learn-vue-js/tree/master/08/vue-lifecycle.png)
