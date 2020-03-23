@@ -1,0 +1,5 @@
+# Component with props
+
+```html
+
+```
