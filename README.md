@@ -6,6 +6,7 @@
 - [Loops](https://github.com/andreaharris-go/learn-vue-js/tree/master/03)
 - [Button click](https://github.com/andreaharris-go/learn-vue-js/tree/master/04)
 - [Input text](https://github.com/andreaharris-go/learn-vue-js/tree/master/05)
+- [Component](https://github.com/andreaharris-go/learn-vue-js/tree/master/06)
 
 ## Lodash
 - [IsEmpty](https://github.com/andreaharris-go/learn-vue-js/tree/master/lodash/isEmpty)
